@@ -24,7 +24,7 @@ Alternatively, you can add the following line to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/MPNetworkPackage.git", from: "1.0.0")
+    .package(url: "https://github.com/Noshaid/MPNetworkPackage.git", from: "1.0.0")
 ]
 ```
 
